@@ -22,5 +22,3 @@ export class User extends Model<UserProps> {
         )
     }
 }
-
-const user = User.buildUser({})
